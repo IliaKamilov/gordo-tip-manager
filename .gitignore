@@ -1,4 +1,4 @@
 /node_modules
-/db/local.json
+/db
 /src
 /.env
