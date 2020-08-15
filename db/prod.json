@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "id": "324662196",
+            "password": "$2a$10$xdlpRV01IcLDJp9FqhO9fOGEaFjdsXg0aEDSKCEN6Wpke9PllpPru",
+            "firstname": "איליה",
+            "lastname": "קמילוב",
+            "username": "ilia_kamilov",
+            "avatar": "/ilia_kamilov/avatar",
+            "role": "מפתח"
+        }
+    ]
+}
